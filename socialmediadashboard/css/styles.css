@@ -110,3 +110,25 @@ h1 {
 .card-today img {
     margin-right: 5px;
 }
+
+/*overview*/
+.overview {
+    border: 1px solid pink;
+    margin-bottom: 1000px;
+}
+.card-small {
+    border: 1px solid red;
+
+}
+
+.card-small-views {
+
+}
+
+.card-small-icon {
+
+}
+
+.card-small-percentage {
+
+}
